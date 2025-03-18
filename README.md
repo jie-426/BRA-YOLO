@@ -9,8 +9,8 @@ BRA-YOLO network architecture..
   BRA-YOLO network architecture..
 </p>
 
-Jie Ge, Haiwen Yuan1*, Bulin Zhang, Jiabao Son1, Di Wu, Yanfeng Wang, Xi Gao, Changshi Xiao\
-Jie Ge1, Haiwen Yuan1*, Bulin Zhang1, Jiabao Song1, Di Wu1,2, Yanfeng Wang3, Xi Gao3, Changshi Xiao4
+Jie Ge, Haiwen Yuan1*, Bulin Zhang, Jiabao Son1, Di Wu, Yanfeng Wang, Xi Gao, Changshi Xiao
+
 
 
 <details>
