@@ -1,7 +1,7 @@
 # [Ship Detection in Drone View with Normalized Wasserstein Distance Loss Optimization](https://arxiv.org/abs/2405.14458)
 
 
-Official PyTorch implementation of **YOLOv10**.
+BRA-YOLO network architecture..
 
 <p align="center">
   <img src="figures/latency.svg" width=48%>
