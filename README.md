@@ -6,7 +6,7 @@ BRA-YOLO network architecture..
 <p align="center">
   <img src="figures/图片11.png" width=48%>
    <br>
-  Comparisons with others in terms of latency-accuracy (left) and size-accuracy (right) trade-offs.
+  BRA-YOLO network architecture..
 </p>
 
 [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458).\
