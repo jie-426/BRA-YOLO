@@ -68,7 +68,7 @@ model.val(data='coco.yaml', batch=256)
 
 ## Training 
 ```
-yolo detect train data=coco.yaml model=yolov10n/s/m/b/l/x.yaml epochs=500 batch=256 imgsz=640 device=0,1,2,3,4,5,6,7
+yolo detect train data=coco.yaml model=yolov10n/s/m/b/l/x.yaml epochs=100 batch=16 imgsz=640 device=0,1,2,3,4,5,6,7
 ```
 
 Or
