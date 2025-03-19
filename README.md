@@ -1,4 +1,4 @@
-# [Ship Detection in Drone View with Normalized Wasserstein Distance Loss Optimization](https://arxiv.org/abs/2405.14458)
+# [Ship Detection in Drone View with Normalized Wasserstein Distance Loss Optimization]
 
 
 BRA-YOLO network architecture..
