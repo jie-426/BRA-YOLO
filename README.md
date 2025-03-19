@@ -73,19 +73,10 @@ model = YOLOv10()
 # wget https://github.com/THU-MIG/yolov10/releases/download/v1.1/yolov10{n/s/m/b/l/x}.pt
 # model = YOLOv10('yolov10{n/s/m/b/l/x}.pt')
 
-model.train(data='coco.yaml', epochs=500, batch=256, imgsz=640)
+model.train(data='coco.yaml', epochs=100, batch=16, imgsz=640)
 ```
 
-## Push to hub to 🤗
 
-Optionally, you can push your fine-tuned model to the [Hugging Face hub](https://huggingface.co/) as a public or private model:
-
-```python
-# let's say you have fine-tuned a model for crop detection
-model.push_to_hub("<your-hf-username-or-organization/yolov10-finetuned-crop-detection")
-
-# you can also pass `private=True` if you don't want everyone to see your model
-model.push_to_hub("<your-hf-username-or-organization/yolov10-finetuned-crop-detection", private=True)
 ```
 
 ## Prediction
