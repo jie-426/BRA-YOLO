@@ -80,6 +80,7 @@ model.train(data='coco.yaml', epochs=100, batch=16, imgsz=640)
 ```
 
 ## Prediction
+```
 Note that a smaller confidence threshold can be set to detect smaller objects or objects in the distance. Please refer to [here](https://github.com/THU-MIG/yolov10/issues/136) for details.
 ```
 yolo predict model=jameslahm/yolov10{n/s/m/b/l/x}
