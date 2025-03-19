@@ -131,7 +131,7 @@ The code base is built with [ultralytics](https://github.com/ultralytics/ultraly
 
 Thanks for the great implementations! 
 
-## Citation
+## result
 
 If our code or models help your work, please cite our paper:
 ```BibTeX
