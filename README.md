@@ -137,7 +137,7 @@ Visualization Results of the BRA-YOLO Model on ours Dataset.
 BRA-YOLO network architecture..
 
 <p align="center">
-  <img src="figures/图片11.png" width=48%>
+  <img src="figures/ship1-1_002.jpg" width=48%>
    <br>
   BRA-YOLO network architecture..
 </p>
