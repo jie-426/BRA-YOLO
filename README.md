@@ -133,12 +133,12 @@ Thanks for the great implementations!
 
 ## result
 
-If our code or models help your work, please cite our paper:
+Visualization Results of the BRA-YOLO Model on ours Dataset.
 ```BibTeX
-@article{wang2024yolov10,
-  title={YOLOv10: Real-Time End-to-End Object Detection},
-  author={Wang, Ao and Chen, Hui and Liu, Lihao and Chen, Kai and Lin, Zijia and Han, Jungong and Ding, Guiguang},
-  journal={arXiv preprint arXiv:2405.14458},
-  year={2024}
-}
+<p align="center">
+  <img src="figures/图片11.png" width=48%>
+   <br>
+  BRA-YOLO network architecture..
+</p>
+
 ```
