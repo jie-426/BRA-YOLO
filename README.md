@@ -140,7 +140,7 @@ BRA-YOLO network architecture..
   <img src="figures/ship1-1_002.jpg" width=48%>
    <img src="figures/ship4-1_039.jpg" width=48%>
    <br>
-  BRA-YOLO network architecture..
+  
 </p>
 
 ```
